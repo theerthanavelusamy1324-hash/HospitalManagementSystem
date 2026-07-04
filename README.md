@@ -81,10 +81,10 @@ Hospital-Management-System/
 ![Doctors Page](screenshots/doctors%20page.jpg)
 
 ### Appointments Page
-![Appointments Page](screenshots/appointments%20ticket%20page.jpg)
+![Appointments Page](screenshots/appointments%20page.jpg)
 
 ### Chat Page
-![Chat Page](screenshots/chat%20ticket%20page.jpg)
+![Chat Page](screenshots/chat%20page.jpg)
 
 ## 👩‍💻 Author
 
