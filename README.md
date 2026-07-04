@@ -26,7 +26,7 @@ The Hospital Management System is a web-based application designed to manage hos
 ### Backend:
 - Java
 - Spring Boot
-- - Spring MVC
+- Spring MVC
 - Spring Data JPA
 
 
