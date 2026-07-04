@@ -72,16 +72,19 @@ Hospital-Management-System/
 ![Sign Up Page](screenshots/signup%20page.jpg)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard%20page.jpg)
+![Dashboard Page](screenshots/dashboard%20page.jpg)
 
-### Add Train Page
-![Add Train Page](screenshots/add%20page.jpg)
+### Patients Page
+![Patients Page](screenshots/patients%20page.jpg)
 
-### Schedule Page
-![Schedule Page](screenshots/schedule%20page.jpg)
+### Doctors Page
+![Doctors Page](screenshots/doctors%20page.jpg)
 
-### Book Ticket Page
-![Book Ticket Page](screenshots/book%20ticket%20page.jpg)
+### Appointments Page
+![Appointments Page](screenshots/appointments%20ticket%20page.jpg)
+
+### Chat Page
+![Chat Page](screenshots/chat%20ticket%20page.jpg)
 
 ## 👩‍💻 Author
 
