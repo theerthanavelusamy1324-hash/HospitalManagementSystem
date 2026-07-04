@@ -5,11 +5,12 @@ The Hospital Management System is a web-based application designed to manage hos
 
 ---
 ## 🔗 Live Demo
-[https://your-project.vercel.app](https://theerthanavelusamy1324-hash.github.io/HospitalManagementSystem/)
+
+https://theerthanavelusamy1324-hash.github.io/HospitalManagementSystem/
 
 ## 💻 Source Code
-[https://github.com/your-username/ZippyEatsProject](https://github.com/theerthanavelusamy1324-hash/HospitalManagementSystem)
 
+https://github.com/theerthanavelusamy1324-hash/HospitalManagementSystem
 ---
 
 ## 🚀 Features
