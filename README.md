@@ -1,7 +1,7 @@
 # 🏥 Hospital Management System
 
 ## 📌 Project Overview
-The Hospital Management System is a web-based application designed to manage hospital operations such as patient records, doctor details, appointments, billing, and medical reports. It helps to simplify and automate hospital workflows efficiently.
+The Hospital Management System is a web-based application designed to manage hospital operations such as patient records, doctor details, appointments, and medical reports. It helps to simplify and automate hospital workflows efficiently.
 
 ---
 
